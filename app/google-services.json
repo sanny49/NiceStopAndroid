@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "489284159887",
+    "firebase_url": "https://nicestop-b3985.firebaseio.com",
+    "project_id": "nicestop-b3985",
+    "storage_bucket": "nicestop-b3985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489284159887:android:9641c12f3d9b3e8a",
+        "android_client_info": {
+          "package_name": "com.example.nicestop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489284159887-eos7t58oblc3r5fir1lvgq94igrgr1bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nicestop",
+            "certificate_hash": "a1d4c3dab0f52aafa26b91951ae05c45c65f5c06"
+          }
+        },
+        {
+          "client_id": "489284159887-941k4ebhp1e45uuvmirsfp4j1m2pi9c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9N9z8J6A2U09Da9q2zp4VGhEsMcnyTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489284159887-941k4ebhp1e45uuvmirsfp4j1m2pi9c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

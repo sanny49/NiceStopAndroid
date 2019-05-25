@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Ticket"
+            android:title="Ticket"
+            android:icon="@drawable/ic_assignment_black_24dp"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/MyProfile"
+            android:title="Violators"
+            android:icon="@drawable/ic_person_black_24dp"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/LogOut"
+            android:title="Log Out"
+            android:icon="@drawable/ic_chevron_left_black_24dp"
+            tools:ignore="HardcodedText" />
+    </group>
+
+</menu>

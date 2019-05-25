@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/textViewTo"
+        android:layout_width="404dp"
+        android:layout_height="367dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:textColor="#0A0000"
+        android:textSize="20sp"
+        android:typeface="normal"
+        tools:ignore="HardcodedText,MissingConstraints,RtlHardcoded"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NiceStop</string>
+    <string name="Open">NiceStop</string>
+    <string name="Close">NiceStop</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_swipe">MainActivitySwipe</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_swipe_fragment">SwipeFragment</string>
+    <string name="title_activity_swipe">Swipe</string>
+    <string name="title_activity_fragment_swipe">fragment_swipe</string>
+    <string name="title_activity_menu_tab">menuTab</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>
